@@ -12,7 +12,7 @@ public class Main {
 
     }
 
-    public static void Task21() {
+    public static void task21() {
 
 
         System.out.println("Task2.1");
