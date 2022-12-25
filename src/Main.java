@@ -1,14 +1,14 @@
 
 public class Main {
     public static void main(String[] args) {
-        //Task21();
-        //Task22();
-        //Task23();
-        //Task24();
-        //Task25();
-        //Task26();
-        //Task27();
-        Task28();
+        task21();
+        task22();
+        task23();
+        task24();
+        task25();
+        task26();
+        task27();
+        task28();
 
     }
 
